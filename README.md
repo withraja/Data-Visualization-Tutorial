@@ -158,14 +158,3 @@ Regression analysis is a statistical approach used to estimate a relationship be
 Even though, using a combination chart is not a good choice. Less is better. **But here are some tips for using Combo Chart** 💡
 - The data on Bar Chart and Line Chart must be from the same source 
 - There must be a dual Y axis (on the left and right)
-
-## 🛠 Skills
-Javascript, HTML, CSS...
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
