@@ -14,7 +14,7 @@ We'll learn how to leverage Matplotlib and Seaborn to create stunning visuals th
 - **CSV files** --> Dataset for our visualization
 - **Course Notes.pdf** --> Material about how to choose a good chart for our data. Credit to the 365datascience team has made this material.
 
-## Library for Data Viz in Python 🤯
+## Library for Data Viz in Python 📑
 Of course, you know the library for visualization in python. Yup, especially if it's not Matplotlib and Seaborn. Do you know the difference?  
 
 
@@ -57,49 +57,7 @@ A higher-level library that is **built on top of Matplotlib** and provides more 
 
 ### Sooo... why not both? 🤔
 You may want to combine Matplotlib and Seaborn to take advantage of the strengths of both libraries. For example, you might use Seaborn for exploratory data analysis and to quickly generate visually appealing visualizations, and then use Matplotlib to fine-tune the plot elements and create more complex visualizations. And that is what we'll do in this tutorial 🎉
-## Library for Data Viz in Python 🤯
-Of course, you know the library for visualization in python. Yup, especially if it's not Matplotlib and Seaborn. Do you know the difference?  
 
-
-### Matplotlib 
-``` import matplotlib.pyplot as plt```  
-
-A widely used data visualization library that provides a wide range of plot types and customization options. It is a low-level library that allows for fine-grained control over plot elements but requires more code to generate complex visualizations
-
-📃[**Matplolib Documentation**](https://matplotlib.org/stable/tutorials/introductory/) 
-
-
-#### Advantages of Matplotlib 😆
-- Provides a wide range of plot types and customization options
-- Allows for fine-grained control over plot elements
-- Integrates with many other Python libraries
-
-#### Disadvantages of Matplotlib 😣
-- More difficult to use and requires more code to generate complex visualizations
-- The default styles are often not visually appealing  
-
-
-
-### Seaborn
-``` import Seaborn as sns```  
-
-A higher-level library that is **built on top of Matplotlib** and provides more advanced statistical visualizations, such as violin plots and heatmaps, with fewer lines of code
-
-📃[**Seaborn Documentation**](https://seaborn.pydata.org/tutorial/introduction.html) 
-
-
-#### Advantages of Seaborn 😋
-- Advanced statistical visualizations with fewer lines of code
-- Visually appealing and can be customized easily
-- Integrates well with Pandas dataframes
-
-#### Disadvantages of Seaborn 😭
-- Not as flexible as Matplotlib for customizing 
-- Some plot types not available in Seaborn
-
-
-### Sooo... why not both? 🤔
-You may want to combine Matplotlib and Seaborn to take advantage of the strengths of both libraries. For example, you might use Seaborn for exploratory data analysis and to quickly generate visually appealing visualizations, and then use Matplotlib to fine-tune the plot elements and create more complex visualizations. And that is what we'll do in this tutorial 🎉
 ## Chart 🎨
 
 There are many types of graphs for data visualization. But each has advantages and disadvantages. There are even certain conditions that require us to use certain charts. For more details, please refer to [**DatatoViz**](https://www.data-to-viz.com/)  
