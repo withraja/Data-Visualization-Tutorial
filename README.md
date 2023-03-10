@@ -38,7 +38,7 @@ A widely used data visualization library that provides a wide range of plot type
 
 
 ### Seaborn
-``` import Seaborn as sns```  
+``` import seaborn as sns```  
 
 A higher-level library that is **built on top of Matplotlib** and provides more advanced statistical visualizations, such as violin plots and heatmaps, with fewer lines of code
 
