@@ -1,4 +1,6 @@
 
+![App Screenshot](https://drive.google.com/uc?export=view&id=1_5j4cZubjsxiHgkOUh3HUg6nNtlM2vPd)
+
 # Data visualization in Python
 
 Whether you're a data scientist, analyst, or business professional, this tutorial will equip us with the skills and tools to communicate insights effectively and tell compelling stories with your data.  
@@ -156,3 +158,14 @@ Regression analysis is a statistical approach used to estimate a relationship be
 Even though, using a combination chart is not a good choice. Less is better. **But here are some tips for using Combo Chart** 💡
 - The data on Bar Chart and Line Chart must be from the same source 
 - There must be a dual Y axis (on the left and right)
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
