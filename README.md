@@ -99,12 +99,12 @@ When should we use a line chart?
 Used to display the distribution of numerical and continuous data that has a range (bins)  
 In practice, there is usually no definitive answer as to the correct number of bins. Anywhere between 6 and 10 bins would be ideal if the distribution pattern is visible. 
 
-We also can set our bins based on our interval. Such as, Google Maps shows the busiest time to visit a place. There are 24 bins shown, based on the number of hours in a day. We need to make sure the intervals make sense based on the nature of the data.
+We also can set our bins based on our interval. Such as, Google Maps shows the busiest time to visit a place. There are 24 bins shown, based on the number of hours in a day. We need to make sure the intervals make sense based on the nature of the data.  
 **Don’t cut the X or the Y axis** 💡
 
 ### Scatter Plot
 It is useful for exploring data, find correlation, and find causal relationship  
-**TIPS** 💡 
+**TIPS** 💡  
 To avoid Overplotting, you should add a transparency level to your graph. If it still doesn't work, you could try to plot a subset of the entire data (sampling)  
 The sample should be random, and representative of the pattern in the data
 
@@ -113,6 +113,7 @@ To quantify a causal relationship, we use regression analysis. Visually a **regr
 Regression analysis is a statistical approach used to estimate a relationship between two variables
 
 ### Combo Chart | Bar and Line
-Even though, using a combination chart is not a good choice. Less is better. **But here are some tips for using Combo Chart** 💡
+Even though, using a combination chart is not a good choice. Less is better.  
+**But here are some tips for using Combo Chart** 💡
 - The data on Bar Chart and Line Chart must be from the same source 
 - There must be a dual Y axis (on the left and right)
